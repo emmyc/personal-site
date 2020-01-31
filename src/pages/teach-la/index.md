@@ -5,7 +5,7 @@ github: "https://github.com/uclaacm/TeachLAFrontend"
 date: 2020-01-01
 title: "ACM TeachLA Editor"
 thumbnail: "./teachla.png"
-description: "Markdown is a lightweight markup language, originally created by John Gruber and Aaron Swartz allowing people to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)"
+description: "This is an online code editor for Teach LA, a UCLA organization that teaches computer science to kids at local schools. I helped implement features to the frontend of the site, such as light/dark mode support."
 tags: ["React", "Redux", "SCSS", "UI/UX Design"]
 ---
 

@@ -122,19 +122,6 @@ export default function Index({ data }) {
             })}
         </div>
       </div>
-      <div className="experience section">
-        <h2>
-          <span
-            className="underline"
-            data-sal="slide-up"
-            data-sal-delay="300"
-            data-sal-duration="700"
-            data-sal-easing="ease-in-out"
-          >
-            Experience
-          </span>
-        </h2>
-      </div>
     </Layout>
   )
 }

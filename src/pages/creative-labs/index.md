@@ -5,7 +5,7 @@ github: "https://github.com/UCLA-Creative-Labs/merlot"
 date: 2019-12-21
 title: "Creative Labs"
 thumbnail: "./creativelabs.png"
-description: "Markdown is a lightweight markup language, originally created by John Gruber and Aaron Swartz allowing people to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)"
+description: "Creative Labs is UCLA's community for creative endeavors. As the executive director of the club, I wanted a way to showcase our events and projects. I created this site using React, and stored data in Contentful CMS."
 tags: ["React", "Gatsby", "GraphQL", "SCSS"]
 ---
 

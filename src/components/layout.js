@@ -49,7 +49,7 @@ const Layout = ({ children }) => {
             website goes, you can stay in touch with me at{" "}
             <a href="mailto:emmycao@g.ucla.edu">emmycao@g.ucla.edu</a>.
             Alternatively, you can read my <a>blog</a>, or explore snippets of
-            my life through any of the links here (at your own risk).
+            my life through any of the links here.
           </p>
         </div>
         <div className="socials">

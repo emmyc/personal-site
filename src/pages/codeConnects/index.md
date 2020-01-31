@@ -5,7 +5,7 @@ url: "https://codeconnects.org"
 github: "https://github.com/rishabhaggarwal2/CodeConnects2019"
 title: "codeConnects"
 thumbnail: "./codeconnects.png"
-description: "Markdown is a lightweight markup language, originally created by John Gruber and Aaron Swartz allowing people to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)"
+description: "codeConnects provides middle and high school students with accessible and high quality coding education remotely. I was involved in creating the website from ideation and designing to developing and updating."
 tags: ["Javascript", "HTML/SCSS", "UI/UX Design"]
 ---
 
