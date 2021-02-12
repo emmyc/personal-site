@@ -44,13 +44,11 @@ const Layout = ({ children }) => {
           <h2>
             <span className="underline">Contact</span>
           </h2>
-          <p>
-            Thank you for making it this far! Although this is as far as my
-            website goes, you can stay in touch with me at{" "}
+          {/* <p>
+            that's it folks, you can reach me at {" "}
             <a href="mailto:emmycao@g.ucla.edu">emmycao@g.ucla.edu</a>.
-            Alternatively, you can read my <a>blog</a>, or explore snippets of
-            my life through any of the links here.
-          </p>
+           
+          </p> */}
         </div>
         <div className="socials">
           <a href="mailto:emmycao@g.ucla.edu">
@@ -69,7 +67,7 @@ const Layout = ({ children }) => {
       </footer>
       © {new Date().getFullYear()}, Built with
       {` `}
-      <a href="https://www.gatsbyjs.org">Gatsby</a>
+      <a href="https://www.gatsbyjs.org">Gatsby</a> and Pain
     </div>
   )
 }

@@ -32,7 +32,7 @@ export default function Index({ data }) {
           data-sal-duration="700"
           data-sal-easing="ease-in-out"
         >
-          Hi there! My name is
+          hi my name is
         </h3>
         <h1
           data-sal="slide-up"
@@ -40,7 +40,7 @@ export default function Index({ data }) {
           data-sal-duration="700"
           data-sal-easing="ease-in-out"
         >
-          <span className="underline">Emmy Cao.</span>
+          <span className="underline">emmy cao</span>
         </h1>
         <h4
           data-sal="slide-up"
@@ -48,8 +48,7 @@ export default function Index({ data }) {
           data-sal-duration="700"
           data-sal-easing="ease-in-out"
         >
-          I develop and design things to build community and promote outreach.
-          Currently leading <a>Creative Labs at UCLA</a>.
+          creative technologist who's okay at a few things
         </h4>
       </div>
       <div className="projects section" id="projects">
